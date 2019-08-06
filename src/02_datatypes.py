@@ -5,7 +5,7 @@ to perform operations on them.
 
 Note that if you try running the following code without making any
 changes, you'll get a TypeError saying you can't perform an operation
-on a string and an integer.
+on a string and an integer
 """
 
 x = 5

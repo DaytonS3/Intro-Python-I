@@ -45,7 +45,7 @@ waypoint = Waypoint("Catacombs", 41.70505, -121.51521)
 print(waypoint)
 
 # Without changing the following line, how can you make it print into something
-# more human-readable? Hint: Look up the `object.__str__` method
+# more human-readable? Hint: Look up the `object.__str__` method.
 
 
 # Make a new geocache "Newberry Views", diff 1.5, size 2, 44.052137, -121.41556

@@ -16,7 +16,7 @@ and does the following:
    month and year.
  - Otherwise, print a usage statement to the terminal indicating
    the format that your program expects arguments to be given.
-   Then exit the program.
+   Then exit the program..
 """
 
 import sys

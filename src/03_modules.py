@@ -2,7 +2,7 @@
 In this exercise, you'll be playing around with the sys module,
 which allows you to access many system specific variables and
 methods, and the os module, which gives you access to lower-
-level operating system functionality.
+level operating system functionality..
 """
 
 import os

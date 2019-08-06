@@ -8,7 +8,7 @@ https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files
 # Open up the "foo.txt" file (which already exists) for reading
 # Print all the contents of the file, then close the file
 
-# YOUR CODE HERE
+# YOUR CODE HERE.
 file = open("src/foo.txt", "r")
 print(file.read())
 file.close()

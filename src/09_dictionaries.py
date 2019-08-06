@@ -46,7 +46,7 @@ for i in waypoints:
         i.update(name="Not a real place", lon=-130)
 print(waypoints)
 
-# Write a loop that prints out all the field values for all the waypoints
+# Write a loop that prints out all the field values for all the waypoints.
 # YOUR CODE HERE
 for i in waypoints:
     for k, v in i.items():

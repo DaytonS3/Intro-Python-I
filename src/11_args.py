@@ -62,7 +62,7 @@ def f4(**kwargs):
         print(f"k: {k} v: {v}")
 
 
-# Should print
+# Should print.
 # key: a, value: 12
 # key: b, value: 30
 f4(a=12, b=30)

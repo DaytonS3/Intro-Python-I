@@ -8,7 +8,7 @@ def is_even(x):
         return True
 
 
-# Read a number from the keyboard
+# Read a number from the keyboard.
 num = input("Enter a number: ")
 num = int(num)
 
