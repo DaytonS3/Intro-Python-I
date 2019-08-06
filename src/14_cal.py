@@ -22,3 +22,22 @@ and does the following:
 import sys
 import calendar
 from datetime import datetime
+
+time = datetime.now()
+
+year = time.year
+month = time.month
+
+arg = len(sys.argv)
+c = calendar.month(year, month)
+
+if arg < 1:
+    print(c)
+elif arg == 2:
+    month = int(sys.argv[1])
+elif arg == 3:
+    month = int(sys.argv[1])
+    year = int(sys.argv[2])
+    print(c)
+else:
+    print('input month / year expected')
